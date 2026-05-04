@@ -145,7 +145,7 @@ export default function Hero() {
           }}
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
-          transition={{ duration: 1, delay: 1.1 }}
+          transition={{ duration: 0.3}}
         >
           Motion, identity, and visual direction — explored through the lens of fashion.
         </motion.p>
